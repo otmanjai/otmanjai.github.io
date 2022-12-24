@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Electrical Engineering and Smart Systems
+</a>, Sidi Mohamed Ben Abdellah University.
 
 profile:
   align: right
