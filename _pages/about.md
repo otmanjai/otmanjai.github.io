@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'></a>​Department of Electrical Engineering & Smart Systems, Higher School of Technology, Sidi Mohamed Ben Abdellah University, Fez, Morocco.
 
