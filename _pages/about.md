@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>Assistant Professor of Applied Physics, Sidi Mohamed Ben Abdellah University, Fez, Morocco.
+subtitle: <a href='#'></a>​Department of Electrical Engineering & Smart Systems, Higher School of Technology, Sidi Mohamed Ben Abdellah University, Fez, Morocco.
 
 profile:
   align: right
