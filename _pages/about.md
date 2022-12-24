@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an Assistant Professor of Applied Physics at Sidi Mohamed Ben Abdellah University, Fez, Morocco.
+I am currently an Assistant Professor of Applied Physics at Sidi Mohamed Ben Abdellah University, Fez, Morocco. I received my Ph.D. in Nuclear Engineering from ​Abdelmalek Essaâdi University​, Tetouan, Morocco.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_jai.jpg` and put it in the `img/` folder.
 
