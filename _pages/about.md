@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>Department of Electrical Engineering and Smart Systems, Sidi Mohamed Ben Abdellah University.
+subtitle: <a href='#'></a>Department of Electrical Engineering and Smart Systems, Sidi Mohamed Ben Abdellah University, Morocco.
 
 profile:
   align: right
