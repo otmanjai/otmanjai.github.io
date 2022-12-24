@@ -110,12 +110,15 @@ google_site_verification:  # your google-site-verification ID (Google Search Con
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog
+# Research
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Research # blog_name will be displayed in your blog page
+blog_nav_title: Research # your blog must have a title for it to be displayed in the nav bar
+blog_description: Within the field of Applied Mathematics, my research interests span the areas of 
+Probabilistic Machine Learning, Deep Learning, Data-driven Scientific Computing, Multi-fidelity Modeling, 
+Uncertainty Quantification, Big Data Analysis, Economics, and Finance. 
+To learn more about my research please click on the following images.
 permalink: /blog/:year/:title/
 
 # Pagination
