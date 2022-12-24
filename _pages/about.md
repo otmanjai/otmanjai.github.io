@@ -7,7 +7,7 @@ subtitle: <a href='#'></a>​Department of Electrical Engineering & Smart System
 profile:
   align: right
   image: prof_jai.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
   #  <p>​​Department of Electrical Engineering & Smart Systems</p>
   #  <p>​Higher School of Technology</p>
