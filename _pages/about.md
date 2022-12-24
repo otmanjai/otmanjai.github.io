@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>Assistant Professor of Applied Physics, Sidi Mohamed Ben Abdellah University.
+subtitle: <a href='#'></a>Assistant Professor of Applied Physics, Sidi Mohamed Ben Abdellah University, Fez, Morocco.
 
 profile:
   align: right
   image: prof_jai.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>​​Department of Electrical Engineering & Smart Systems</p>
-    <p>​Higher School of Technology</p>
-    <p>​Sidi Mohamed Ben Abdellah University, Fez, Morocco</p>
+  #  <p>​​Department of Electrical Engineering & Smart Systems</p>
+  #  <p>​Higher School of Technology</p>
+  #  <p>​Sidi Mohamed Ben Abdellah University, Fez, Morocco</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
